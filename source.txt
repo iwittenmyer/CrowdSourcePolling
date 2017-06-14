@@ -1,0 +1,8 @@
+git repository crowdsource-polling, branch 
+develop
+commit a3e363ba6ce3084fd9b063c8a03456ac1f761ed3
+Merge: 1d09c5f 5db2911
+Author: Mike Tschudi <mtschudi@esri.com>
+Date:   Fri May 26 10:06:23 2017 -0700
+
+    Resolved github issue #179
